@@ -12,7 +12,7 @@ Currently there are only complete tag lists for the following Halo Online and El
 - ElDewrito 0.7.1
 - Halo Online MS23 (1.106708 cert_ms23)
 
-(Currently I only have the tag lists stored JSON, which isn't all that useful. I'll convert them into csv files soon)
+(Currently I only have the tag lists stored as JSON files, which aren't all that useful. I'll convert them into csv files soon)
 
 ## Contributing
 If there any issues with any of the tag names in these tag lists, or you have some updated tag names you wish to add, feel free to make a pull request or create an issue.
