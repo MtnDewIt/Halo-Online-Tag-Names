@@ -847,7 +847,7 @@
 0x0000034E,shaders\shader_options\albedo_two_detail
 0x0000034F,shaders\shader_options\albedo_color_mask
 0x00000350,shaders\shader_options\albedo_two_detail_black_point
-0x00000351,shaders\shader_options\albedo_two_change_color_anim_overlay
+0x00000351,shaders\shader_options\albedo_two_change_color_anim
 0x00000352,shaders\shader_options\albedo_chameleon
 0x00000353,shaders\shader_options\albedo_two_change_color_chameleon
 0x00000354,shaders\shader_options\albedo_chameleon_masked
@@ -866,7 +866,7 @@
 0x00000361,shaders\shader_options\glass_material
 0x00000362,shaders\shader_options\material_organism_option
 0x00000363,shaders\shader_options\single_lobe_phong
-0x00000364,shaders\shader_options\material_car_paint
+0x00000364,shaders\shader_options\material_car_paint_option
 0x00000365,shaders\shader_options\env_map_per_pixel
 0x00000366,shaders\shader_options\env_map_dynamic
 0x00000367,shaders\shader_options\env_map_from_flat_texture
