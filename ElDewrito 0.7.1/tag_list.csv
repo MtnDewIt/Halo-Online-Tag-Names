@@ -27065,7 +27065,7 @@
 0x000069B8,shaders\shader_options\distort_on
 0x000069B9,shaders\shader_options\soft_fade
 0x000069BA,shaders\screen_options\illum_palettized_plasma_change_color
-0x000069BB,shaders\shader_options\illum_palettized_depth_fade
+0x000069BB,shaders\screen_options\illum_palettized_depth_fade
 0x000069BC,shaders\halogram_templates\_2_3_1_0_0_1_0_0_0
 0x000069BD,shaders\halogram_templates\_2_3_1_0_0_1_0_0_0
 0x000069BE,shaders\halogram_templates\_2_3_1_0_0_1_0_0_0

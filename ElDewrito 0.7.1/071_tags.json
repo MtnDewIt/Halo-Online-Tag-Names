@@ -27066,7 +27066,7 @@
   "27064": "shaders\\shader_options\\distort_on",
   "27065": "shaders\\shader_options\\soft_fade",
   "27066": "shaders\\screen_options\\illum_palettized_plasma_change_color",
-  "27067": "shaders\\shader_options\\illum_palettized_depth_fade",
+  "27067": "shaders\\screen_options\\illum_palettized_depth_fade",
   "27068": "shaders\\halogram_templates\\_2_3_1_0_0_1_0_0_0",
   "27069": "shaders\\halogram_templates\\_2_3_1_0_0_1_0_0_0",
   "27070": "shaders\\halogram_templates\\_2_3_1_0_0_1_0_0_0",
